@@ -1,8 +1,8 @@
 POST https://lwe1uzc0jg.execute-api.eu-west-1.amazonaws.com/dev/v1/contact
 
 {
-    "email": "constantinides.ch@gmail.com",
-    "firstName": "Chris",
-    "surname": "Constantinides",
-    "phone": "0818057517"
+    "email": "test@gmail.com",
+    "firstName": "test",
+    "surname": "tester",
+    "phone": "0214483213"
 }
